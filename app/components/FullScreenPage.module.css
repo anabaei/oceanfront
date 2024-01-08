@@ -1,0 +1,19 @@
+/* components/FullScreenPage.module.css */
+.fullScreenPage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1874196.jpg&f=1&nofb=1&ipt=50c2840bbf778d30124b03a6036f22185a76579979ba438692289501a0a3f03d&ipo=images'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-color: aliceblue;
+   
+  }
+  
+  .centeredContent {
+    text-align: center;
+    color: black;
+    font-size: 32px; /* Text color on the background image */
+  }
+  
